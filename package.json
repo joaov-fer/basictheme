@@ -14,7 +14,7 @@
   "categories": [
     "Themes"
   ],
-  "contributes":
+  "contributes":{
     "themes": [
       {
         "label": "SchoolTheme",
@@ -24,3 +24,4 @@
     ]
   }
 }
+
