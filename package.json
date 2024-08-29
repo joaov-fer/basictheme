@@ -1,18 +1,23 @@
 {
-  "name": "basictheme",
-  "displayName": "BasicTheme",
+  "name": "SchoolTheme",
+  "displayName": "SchoolTheme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "SchoolTheme",
   "engines": {
     "vscode": "^1.92.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaov-fer/basictheme"
   },
   "categories": [
     "Themes"
   ],
-  "contributes": {
+  "contributes":
     "themes": [
       {
-        "label": "basictheme",
+        "label": "SchoolTheme",
         "uiTheme": "vs-dark",
         "path": "./themes/basictheme-color-theme.json"
       }
